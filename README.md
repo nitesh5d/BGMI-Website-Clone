@@ -1,4 +1,4 @@
 # BGMI-Website-Clone
-![ss](https://user-images.githubusercontent.com/62883847/166197509-1133b4a4-c7dd-42d4-a1fe-578500939d9c.JPG)
+![screenshot](https://user-images.githubusercontent.com/62883847/186398109-5835e40e-9480-4329-995b-7babd7d4058c.png)
 
 Clone Frontend Web design of https://www.battlegroundsmobileindia.com/ . Their website has changed a lot now.
